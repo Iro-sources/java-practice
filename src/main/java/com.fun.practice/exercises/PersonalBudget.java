@@ -3,7 +3,7 @@ package com.fun.practice.exercises;
 public class PersonalBudget {
     public static void main(String[] args) {
         String name = "Alex";
-        byte age = 25;
+        byte age = 25;                      //Why is age declared as a byte, while monthlySalary is declared as a double?
         char currency = '$';
         double monthlySalary = 3200.50;
 
