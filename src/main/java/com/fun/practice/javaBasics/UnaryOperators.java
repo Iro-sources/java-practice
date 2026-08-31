@@ -1,4 +1,4 @@
-package com.fun.practice.basics;
+package com.fun.practice.javaBasics;
 
 public class UnaryOperators {
     public static void main(String[] args)

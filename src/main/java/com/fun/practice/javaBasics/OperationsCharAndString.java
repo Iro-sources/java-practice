@@ -1,4 +1,4 @@
-package com.fun.practice.basics;
+package com.fun.practice.javaBasics;
 
 public class OperationsCharAndString {
     public static void main(String[] args){
@@ -19,6 +19,10 @@ public class OperationsCharAndString {
         String word = "hello";
         System.out.println(word+ch3);
         System.out.println(ch4);
+
+        String names = "hello";
+        int numbers = 88;
+        System.out.println(names + numbers );
 
     }
 }
