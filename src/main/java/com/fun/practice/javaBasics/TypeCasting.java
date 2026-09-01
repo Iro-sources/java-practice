@@ -28,7 +28,11 @@ public class TypeCasting {
         System.out.println();
         //Casting double value to an int
         double doubleValue = 9.85;
-        int resul = (int)doubleValue;
-        System.out.println(resul);
+        int result = (int)doubleValue;
+        System.out.println(result);
+
+        int basic = 4567;
+        double pf = 11;
+        System.out.println((pf / 100) * basic);
     }
 }
