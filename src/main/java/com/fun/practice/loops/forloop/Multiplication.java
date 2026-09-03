@@ -1,4 +1,4 @@
-package com.fun.practice.loops;
+package com.fun.practice.loops.forloop;
 
 import java.util.Scanner;
 
@@ -13,7 +13,7 @@ public class Multiplication {
             for(i=1; i<=10; i++){
                 System.out.println(n * i);
             }
-            //System.out.println();
+
             sc.close();
         }
 }
